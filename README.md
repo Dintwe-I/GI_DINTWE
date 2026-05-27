@@ -1,47 +1,177 @@
 ## GEORGE ITUMELENG DINTWE
 
-Welcome to my space! I’m a 20-year-old Computer Engineering student who traded the small-town grind of Swartruggens for the creative chaos of Cape Town. Here, I’m not just learning to code—I’m chasing freedom, building up my skills, and making technology work for the dreamers who come from places like mine.
+### Computer Engineering Student | Web Developer | Automation Architect | Cloud Engineering Enthusiast
 
-I’m all about pushing boundaries—on the pitch during late-night football debates, in class as I level up on AWS, or in life as I challenge the idea that success only fits in a 9–5 box. This profile is for anyone who believes in more: more knowledge, more independence, more impact. 
+Welcome to my space! 
 
-Whether I’m hacking on 3D games, diving into cybersecurity, or sharing unfiltered stories, I’m here to inspire, question, and break a few molds along the way. If you care about family, freedom, and making tech personal, you’re in the right place.
+I build scalable web systems, automation workflows, interactive applications, and cloud-deployed platforms.
+Currenlty focused on: 
+- Web Development
+- Intelligent workflow automation
+- Cloud infrastructure & deployment
+- AI-assisted operational systems
+
+# ABOUT ME
+
+I’m a 20-year-old who traded the small-town grind of Swartruggens for the creative chaos of Cape Town. Here, I’m not just learning to code—I’m chasing freedom, building up my skills, and making technology work for the dreamers who come from places like mine.
+
+I'm a third-year Computer Engineering student with hands-on experience building and maintaining production-grade systems for real businesses. Alongside my studies, i work remotely with: 
+- Omni Secure : Web Development & IT Support
+- ProudlyAssociated : Web Development, IT Support & Automation Architect 
+
+My work spans:
+- Website architecture
+- WordPress development
+- AWS-based deployment
+- Backend workflow automation
+- Domain & email infrustruture
+- AI-powered operational tooling
+- UI/UX optimization
+- Cloud-aware systems design
+
+I enjoy building systems that combine engineering, automation, usability, and scalability.
 
 ---
 
-### 🎓 Computer Engineering student @ CPUT  
-🧠 Passionate about Web Development, 3D WebGL Games & Cybersecurity  
-🌍 Based in Cape Town, South Africa  
-🚀 Always learning – Python, AWS, and full-stack tools
+# TECH STACK
+
+## Languages
+- C
+- Java
+- JavaScript
+- Python
+
+## Frontend & web
+- HTML5 
+- CSS3 
+- WebGL
+- WordPress
+
+## Cloud & Infrustructure
+- AWS S3
+- AWS CloudFront
+- Route 53
+- cPanel
+- DNS Management
+
+## Automation & AI
+- n8n
+- Telegram Bot API, Google Workspace API, OpenAI API, and Notion API
+
+## Tools
+- Git & GitHub
+- VS Code
+- Cursos
+- Browser DevTools
+
+--- 
+
+# PROFESSIONAL EXPIRIENCE
+
+## Omni Secure
+### Web Developer & IT Support (Remote)
+
+- Developed and maintained responsive production websites
+- Built and deployed business websites from setup to production
+- Managed domain infrastructure and business email systems
+- Configured DNS, SMTP, Outlook, Thunderbird, and cPanel environments
+- Diagnosed and resolved email authentication and delivery issues
+- Performed ongoing maintenance and technical troubleshooting
 
 ---
 
-## 💼 Projects I'm Proud Of
+## ProudlyAssociated
+### Web Developer & Automation Consultant
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [F4 Phantom Space Shooter](https://github.com/graham-drizzy05/space-shooter-webgl) | A 3D space shooter game rendered in real time with custom shaders, procedural missiles, and a textured F-4 Phantom jet.Features include WASD controls, missiles launching, and a dynamic starfield - fully ported from WebGL to Python OpenGL | Python, PyOpenGL, GLFW, GLSL|
-| [🎮 Brick Breaker](https://github.com/graham-drizzy05/brick-breaker) | Classic paddle game using WebGL | WebGL, HTML5, CSS |
-| [💻 Portfolio Website](https://graham-drizzy05.github.io/PORTFOLIO-SITE/) | Terminal-inspired personal portfolio | HTML, CSS, AOS |
-
----
-
-## 🛠 Skills
-
-- **Languages:** C, Java, JavaScript, HTML, CSS, Python (learning)
-- **Web Tech:** HTML, CSS, WebGL, WordPress, React
-- **Tools:** Git, VS Code, Chrome DevTools
-- **Concepts:** Object-Oriented Programming,Real-time Rendering, Responsive Design, Data Structures
+- Revamped and optimized production websites
+- Improved UI/UX consistency and performance
+- Built automation workflows for crypto intelligence gathering
+- Developed Python-powered automation systems orchestrated through n8n
+- Implemented backup, security, and maintenance workflows
+- Assisted in scalable backend and content automation systems
 
 ---
 
-## 📫 Contact Me
+# PROJECTS
 
-- Email: [dintwegeorge0@gmail.com](mailto:dintwegeorge0@gmail.com)
+## Website Development
+Designed and deployed production websites for real businesses.
+
+### Projects
+- Boikhutso Mining
+- ProudlyAssociated
+- WideView Property Management
+
+### Focus Areas
+- UI/UX optimization
+- Responsive design
+- Performance improvements
+- Scalable structure
+- Business-oriented web architecture
+
+---
+
+## Synflow Website
+Designed, developed, and deployed the official Synflow website
+
+### Focus
+- Modern UI/UX
+- Performance optimization
+- Responsive design
+- Professional agency branding
+- Scalable frontend architecture
+
+---
+
+## AI Administrative Workflow System (IN PROGRESS)
+An AI-powered operations management system designed to automate internal business workflows.
+
+### Features
+- Telegram-controlled command system
+- AI-assisted email drafting & responses
+- Notion database synchronization
+- Task assignment automation
+- Slack & Google Workspace integration
+- Structured operational logging
+
+### Stack
+n8n OpenAI API Python Notion API
+
+---
+
+## WebGL Game
+Interactive graphics project built with vanilla WebGL and OpenGL concepts.
+
+### Includes
+- 3D rendering
+- Shader programming
+- Matrix transformations
+- Lighting systems
+- Interactive game mechanics
+
+---
+
+## AWS Cloud Deployment Infrastructure
+Production-ready static application deployments using AWS services.
+
+### Technologies
+- Amazon S3
+- CloudFront
+- ACM
+- Route 53
+
+### Focus
+- Secure HTTPS delivery
+- Low-latency global distribution
+- Scalable frontend hosting
+- Cloud deployment pipelines
+
+---
+
+## Contact Me
+
+- Email: [georgedintwe@outlook.com](mailto:georgedintwe@outlook.com)
 - LinkedIn: (https://www.linkedin.com/in/george-itumeleng-dintwe-217301281)
 - YouTube: https://youtube.com/@himchronicles?si=qlXWaoLowtokWaux
 
 ---
-
-<!--
-**graham-drizzy05/graham-drizzy05** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
