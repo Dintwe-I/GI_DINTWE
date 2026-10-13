@@ -1,6 +1,6 @@
-## GEORGE ITUMELENG DINTWE
+## ITUMELENG DINTWE
 
-### Computer Engineering Student | Web Developer | Automation Architect | Cloud Engineering Enthusiast
+### Web Developer | Cloud Enthusiast | Automation Architect | Computer Engineering Student
 
 Welcome to my space! 
 
@@ -56,12 +56,13 @@ I enjoy building systems that combine engineering, automation, usability, and sc
 
 ## Automation & AI
 - n8n
+- Make
 - Telegram Bot API, Google Workspace API, OpenAI API, and Notion API
 
 ## Tools
 - Git & GitHub
 - VS Code
-- Cursos
+- Cursor
 - Browser DevTools
 
 --- 
@@ -171,7 +172,7 @@ Production-ready static application deployments using AWS services.
 ## Contact Me
 
 - Email: [georgedintwe@outlook.com](mailto:georgedintwe@outlook.com)
-- LinkedIn: (https://www.linkedin.com/in/george-itumeleng-dintwe-217301281)
+- LinkedIn: (www.linkedin.com/in/itumeleng-dintwe)
 - YouTube: https://youtube.com/@himchronicles?si=qlXWaoLowtokWaux
 
 ---
