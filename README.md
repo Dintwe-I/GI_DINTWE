@@ -33,37 +33,13 @@ I enjoy building systems that combine engineering, automation, usability, and sc
 
 ---
 
-# TECH STACK
+## Technical Skills
 
-## Languages
-- C
-- Java
-- JavaScript
-- Python
-
-## Frontend & web
-- HTML5 
-- CSS3 
-- WebGL
-- WordPress
-
-## Cloud & Infrustructure
-- AWS S3
-- AWS CloudFront
-- Route 53
-- cPanel
-- DNS Management
-
-## Automation & AI
-- n8n
-- Make
-- Telegram Bot API, Google Workspace API, OpenAI API, and Notion API
-
-## Tools
-- Git & GitHub
-- VS Code
-- Cursor
-- Browser DevTools
+**Languages:** C, Java, JavaScript, Python, HTML, CSS  
+**Web:** WordPress, responsive web design, frontend development  
+**Cloud & Infrastructure:** Amazon S3, CloudFront, Route 53, AWS Certificate Manager (ACM), cPanel, DNS, SMTP  
+**Automation & AI:** n8n, OpenAI API, Python scripting, Telegram Bot API, Notion API, Google Workspace API, Slack API  
+**Tools:** Git, GitHub, VS Code, Cursor, Browser DevTools
 
 ## PROFESSIONAL EXPIRIENCE
 
@@ -120,8 +96,12 @@ An interactive graphics project exploring 3D rendering, shaders, matrix transfor
 
 ## Contact Me
 
-- Email: [georgedintwe@outlook.com](mailto:georgedintwe@outlook.com)
-- LinkedIn: (www.linkedin.com/in/itumeleng-dintwe)
-- YouTube: https://youtube.com/@himchronicles?si=qlXWaoLowtokWaux
+-  **Portfolio:** [dintwe-i.github.io/PORTFOLIO-SITE](https://dintwe-i.github.io/PORTFOLIO-SITE/)
+- **LinkedIn:** [linkedin.com/in/itumeleng-dintwe](https://www.linkedin.com/in/itumeleng-dintwe/)
+- **Synflow:** [synflow.co.za](https://synflow.co.za/)
+- **Email:** [george@synflow.co.za](mailto:george@synflow.co.za)
 
----
+
+## Interests
+
+Cloud architecture, AI automation, intelligent systems, IoT innovation, and UI/UX design.
