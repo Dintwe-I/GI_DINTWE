@@ -77,10 +77,14 @@ I enjoy building systems that combine engineering, automation, usability, and sc
 
 ---
 
-##ProudlyAssociated
-### Web Developer & Automation Consultant
+### ProudlyAssociated - Web Developer & Automation Consultant
+*August 2025 – Present | Remote*
 
-
+- Revamp and optimize production websites, improving responsiveness, performance, and user experience.
+- Conduct website backups and routine security checks.
+- Manage content publishing workflows and support digital outreach.
+- Develop Python-based data collection systems orchestrated with n8n.
+- Contribute to backend, web, and media automation initiatives.
 
 ---
 
