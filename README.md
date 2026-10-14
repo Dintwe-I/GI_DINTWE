@@ -65,31 +65,22 @@ I enjoy building systems that combine engineering, automation, usability, and sc
 - Cursor
 - Browser DevTools
 
---- 
-
 # PROFESSIONAL EXPIRIENCE
 
 ## Omni Secure
 ### Web Developer & IT Support (Remote)
 
-- Developed and maintained responsive production websites
-- Built and deployed business websites from setup to production
-- Managed domain infrastructure and business email systems
-- Configured DNS, SMTP, Outlook, Thunderbird, and cPanel environments
-- Diagnosed and resolved email authentication and delivery issues
-- Performed ongoing maintenance and technical troubleshooting
+- Develop, deploy, and maintain responsive business websites.
+- Manage domains, DNS records, cPanel email accounts, and client email configuration.
+- Troubleshoot SMTP authentication and email delivery issues.
+- Perform ongoing website updates, maintenance, and technical support.
 
 ---
 
-## ProudlyAssociated
+##ProudlyAssociated
 ### Web Developer & Automation Consultant
 
-- Revamped and optimized production websites
-- Improved UI/UX consistency and performance
-- Built automation workflows for crypto intelligence gathering
-- Developed Python-powered automation systems orchestrated through n8n
-- Implemented backup, security, and maintenance workflows
-- Assisted in scalable backend and content automation systems
+
 
 ---
 
