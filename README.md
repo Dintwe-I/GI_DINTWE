@@ -11,6 +11,7 @@ Currenlty focused on:
 - Cloud infrastructure & deployment
 - AI-assisted operational systems
 
+
 # ABOUT ME
 
 I’m a 20-year-old who traded the small-town grind of Swartruggens for the creative chaos of Cape Town. Here, I’m not just learning to code—I’m chasing freedom, building up my skills, and making technology work for the dreamers who come from places like mine.
@@ -31,7 +32,6 @@ My work spans:
 
 I enjoy building systems that combine engineering, automation, usability, and scalability.
 
----
 
 ## Technical Skills
 
@@ -40,6 +40,7 @@ I enjoy building systems that combine engineering, automation, usability, and sc
 **Cloud & Infrastructure:** Amazon S3, CloudFront, Route 53, AWS Certificate Manager (ACM), cPanel, DNS, SMTP  
 **Automation & AI:** n8n, OpenAI API, Python scripting, Telegram Bot API, Notion API, Google Workspace API, Slack API  
 **Tools:** Git, GitHub, VS Code, Cursor, Browser DevTools
+
 
 ## PROFESSIONAL EXPIRIENCE
 
@@ -60,7 +61,6 @@ I enjoy building systems that combine engineering, automation, usability, and sc
 - Develop Python-based data collection systems orchestrated with n8n.
 - Contribute to backend, web, and media automation initiatives.
 
----
 
 ## PROJECTS
 
@@ -92,7 +92,6 @@ Deployed static web applications using Amazon S3, CloudFront, Route 53, and AWS 
 ### WebGL Interactive Graphics Project
 An interactive graphics project exploring 3D rendering, shaders, matrix transformations, lighting, and game mechanics using WebGL and OpenGL concepts.
 
----
 
 ## Contact Me
 
