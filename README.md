@@ -1,6 +1,6 @@
 ## ITUMELENG DINTWE
 
-### Web Developer | Cloud Enthusiast | Automation Architect | Computer Engineering Student
+**Computer Engineering Student | Web Developer | AI Automation Engineer | Cloud Enthusiast | Founder & CEO, Synflow**
 
 Welcome to my space! 
 
