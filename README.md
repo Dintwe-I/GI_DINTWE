@@ -65,7 +65,7 @@ I enjoy building systems that combine engineering, automation, usability, and sc
 - Cursor
 - Browser DevTools
 
-# PROFESSIONAL EXPIRIENCE
+## PROFESSIONAL EXPIRIENCE
 
 ### Omni Secure - Web Developer & IT Support
 *June 2024 – Present | Remote collaboration*
