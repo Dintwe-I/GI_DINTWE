@@ -67,8 +67,8 @@ I enjoy building systems that combine engineering, automation, usability, and sc
 
 # PROFESSIONAL EXPIRIENCE
 
-## Omni Secure
-### Web Developer & IT Support (Remote)
+### Omni Secure - Web Developer & IT Support
+*June 2024 – Present | Remote collaboration*
 
 - Develop, deploy, and maintain responsive business websites.
 - Manage domains, DNS records, cPanel email accounts, and client email configuration.
