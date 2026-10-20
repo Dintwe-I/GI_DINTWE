@@ -92,6 +92,12 @@ Deployed static web applications using Amazon S3, CloudFront, Route 53, and AWS 
 ### WebGL Interactive Graphics Project
 An interactive graphics project exploring 3D rendering, shaders, matrix transformations, lighting, and game mechanics using WebGL and OpenGL concepts.
 
+## Education
+
+**Cape Peninsula University of Technology (CPUT)**  
+BTech in Computer Engineering | February 2024 – December 2027
+
+Relevant coursework includes software design, operating systems, computer graphics, computer architecture, digital systems, embedded systems, databases, network systems, and industrial computing.
 
 ## Contact Me
 
