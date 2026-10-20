@@ -5,11 +5,6 @@
 Welcome to my space! 
 
 I build scalable web systems, automation workflows, interactive applications, and cloud-deployed platforms.
-Currenlty focused on: 
-- Web Development
-- Intelligent workflow automation
-- Cloud infrastructure & deployment
-- AI-assisted operational systems
 
 
 # ABOUT ME
