@@ -14,9 +14,17 @@ Currenlty focused on:
 
 # ABOUT ME
 
-I’m a 20-year-old Computer Engineering student from Swartruggens, now based in Cape Town, using technology to create opportunities beyond where I started. Alongside my studies, I build and maintain production-grade systems for real businesses through: • Omni Secure – Web Development & IT Support • ProudlyAssociated – Web Development, IT Support & Automation
+I’m a 20-year-old Computer Engineering student from Swartruggens, now based in Cape Town, using technology to create opportunities beyond where I started. Alongside my studies, I build and maintain production-grade systems for real businesses through: 
+• Omni Secure – Web Development & IT Support 
+• ProudlyAssociated – Web Development, IT Support & Automation
 
-My expertise includes: • Website Architecture & WordPress Development • AWS Deployment & Cloud Infrastructure • Workflow Automation & AI Systems • Domain & Email Infrastructure • UI/UX Optimization • Scalable, Cloud-Aware System Design
+My expertise includes: 
+• Website Architecture & WordPress Development 
+• AWS Deployment & Cloud Infrastructure 
+• Workflow Automation & AI Systems 
+• Domain & Email Infrastructure 
+• UI/UX Optimization 
+• Scalable, Cloud-Aware System Design
 
 I enjoy building solutions that blend engineering, automation, usability, and scalability to help businesses operate more efficiently and grow with confidence.
 
