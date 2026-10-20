@@ -24,7 +24,7 @@ My expertise includes:
 I enjoy building solutions that blend engineering, automation, usability, and scalability to help businesses operate more efficiently and grow with confidence.
 
 
-## Technical Skills
+## TECHNICAL SKILLS
 
 **Languages:** C, Java, JavaScript, Python, HTML, CSS  
 **Web:** WordPress, responsive web design, frontend development  
@@ -90,7 +90,7 @@ BTech in Computer Engineering | February 2024 – December 2027
 
 Relevant coursework includes software design, operating systems, computer graphics, computer architecture, digital systems, embedded systems, databases, network systems, and industrial computing.
 
-## Contact Me
+## CONTACT ME
 
 -  **Portfolio:** [dintwe-i.github.io/PORTFOLIO-SITE](https://dintwe-i.github.io/PORTFOLIO-SITE/)
 - **LinkedIn:** [linkedin.com/in/itumeleng-dintwe](https://www.linkedin.com/in/itumeleng-dintwe/)
